@@ -18,6 +18,13 @@
   <a href="#license">License</a>
 </p>
 
+<div align="center">
+
+[![HitCount](https://hits.dwyl.com/yahyaoukharta/botaxie-backend.svg?style=flat-square)](http://github.com/yahyaoukharta/botaxie-backend)
+
+</div>
+
+
 ![screenshot](https://raw.githubusercontent.com/Botaxie/botaxie/main/screenshots/screenshot-rocks(2).png)
 
 
